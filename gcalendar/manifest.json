@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "es",
+    "name": "Calendar",
+    "scope": "/gcalendar/",
+    "display": "standalone",
+    "start_url": "index.html",
+    "short_name": "Calendar",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "images/fav-icon.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "images/b61cbc93-a8be-f7d5-93a7-235679671495.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "images/18fd064e-4086-f4a5-cae4-43e2c40e9995.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "images/15c3e157-bcb2-8f16-bbbb-29fc2736842b.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "images/c27b719e-8c69-b9d3-c3c1-425738d15587.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "images/7a26f7f6-7591-668b-d722-2df8788b3b63.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "images/ebf45165-13c3-b025-9940-c95f410bd546.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "images/ca900a8d-bf2c-0954-6080-53b5f8e4f271.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "images/6e525cc8-f4ee-38da-f149-dbe86036f236.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "images/99791049-f7c3-0cd3-dd8d-886ef974efff.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "images/507142a5-a9aa-a4cd-c049-f1479cfca53d.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/87ed1844-5e78-7ee5-73a5-249286c2e676.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "images/f924e2b5-87ed-c975-c92c-efa5afd77965.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "images/a765fb5e-7c43-59bd-66b8-69e68fd03ac3.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "images/2de5a6aa-0a73-0e20-f196-701e1fa128ea.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "images/cb67dcb6-a47b-41b9-7f84-e77c8f08d14c.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "images/6b97140a-90d3-2d90-c6ad-f77407a9bd7e.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "images/22967e55-000b-d97c-be1c-50d72e8f25f3.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "images/2d783253-3ce5-ae62-c50e-0ea197d7b6b9.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
